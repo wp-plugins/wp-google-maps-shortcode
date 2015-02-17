@@ -1,11 +1,11 @@
 === WP Google Maps Shortcode ===
-Author URI: http://fahmiadib.wordpress.com
-Plugin URI: http://fahmiadib.wordpress.com/wp-google-maps-shortcode/
+Author URI: http://fahmiadib.com
+Plugin URI: http://fahmiadib.com/plugins/wp-google-maps-shortcode/
 Contributors: fahmiadib
 Tags: gmaps, google maps, short code, maps
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 1.1b
+Tested up to: 4.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
